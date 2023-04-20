@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm poly_sladkiy</h1>
-<h3 align="center">ASP.Net Core Back-end and Telegram bot with aiogram developer</h3>
+<h3 align="center">I am a student of NNSTU n.a. R.E. Alekseev.<br>
+Backend developer on ASP.NET Core and developer of Telegram bots on aiogram</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poly-sladkiy&label=Profile%20views&color=0e75b6&style=flat" alt="poly-sladkiy" /> </p>
 
